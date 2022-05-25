@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "product1",
+    "description": "this is description of product 1",
+    "stock": 7,
+    "price": 50.0,
+    "image": "https://purgexonline.com/wp-content/uploads/2022/01/gc3_packing-electronics-04.jpg"
+
+  },{
+    "id": 2,
+    "name": "product2",
+    "description": "this is description of product 2",
+    "stock": 5,
+    "price": 42.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShTC0QBTm1oHGKPVDB0nw83jZee66vpCVNrg&usqp=CAU"
+
+  },{
+    "id": 3,
+    "name": "product3",
+    "description": "this is description of product 3",
+    "stock": 2,
+    "price": 20.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHUQCnoOl6WGJbdve3FSzKWNIkbyOBpC3FQ&usqp=CAU"
+
+
+  },{
+    "id": 4,
+    "name": "product4",
+    "description": "this is description of product 4",
+    "stock": 6,
+    "price": 33.0,
+    "image": "https://images-na.ssl-images-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/SBC/xcm_banners_06_sbc_v1_564x564_in-en._CB657839316_.jpg"
+
+  }
+]
